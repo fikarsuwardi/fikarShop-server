@@ -1,0 +1,62 @@
+[
+  {
+    "productId": 1,
+    "imgUrl": "https://www.fjallraven.com/49b0ea/globalassets/catalogs/fjallraven/f2/f242/f24210/features/foldsack_no._1_24210-620_c_model_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 1,
+    "imgUrl": "https://www.fjallraven.com/49b0f0/globalassets/catalogs/fjallraven/f2/f242/f24210/features/foldsack_no._1_24210-620_d_model_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 1,
+    "imgUrl": "https://www.fjallraven.com/49ae5c/globalassets/catalogs/fjallraven/f2/f242/f24210/features/foldsack_no._1_24210-620_e_model_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 2,
+    "imgUrl": "https://www.fjallraven.com/49ae9c/globalassets/catalogs/fjallraven/f8/f870/f87042/features/ovik_t-shirt_m_87042-020-999_c_model_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 2,
+    "imgUrl": "https://www.fjallraven.com/49aeb8/globalassets/catalogs/fjallraven/f8/f870/f87042/features/ovik_t-shirt_m_87042-020-999_d_model_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 2,
+    "imgUrl": "https://www.fjallraven.com/49aebc/globalassets/catalogs/fjallraven/f8/f870/f87042/features/ovik_t-shirt_m_87042-020-999_e_model_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 3,
+    "imgUrl": "https://www.fjallraven.com/494299/globalassets/catalogs/fjallraven/f8/f872/f87202/f232/greenland_jacket_m_87202-232_b_main_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 3,
+    "imgUrl": "https://www.fjallraven.com/49f6ac/globalassets/catalogs/fjallraven/f8/f872/f87202/features/greenland_jacket_m_87202-620_c_model_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 3,
+    "imgUrl": "https://www.fjallraven.com/49f808/globalassets/catalogs/fjallraven/f8/f872/f87202/features/greenland_jacket_m_87202-620_d_model_fjr.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 4,
+    "imgUrl": "https://www.fjallraven.com/49fa98/globalassets/catalogs/fjallraven/f8/f813/f81353/features/skog_shirt_m_81353-560_c_model_fjr2.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 4,
+    "imgUrl": "https://www.fjallraven.com/49fac7/globalassets/catalogs/fjallraven/f8/f813/f81353/features/skog_shirt_m_81353-560_d_model_fjr2.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 4,
+    "imgUrl": "https://www.fjallraven.com/49f6e7/globalassets/catalogs/fjallraven/f8/f813/f81353/features/skog_shirt_m_81353-560_e_model_fjr2.jpg?width=680&height=680&mode=BoxPad&bgcolor=fff&quality=80"
+  },
+  {
+    "productId": 5,
+    "imgUrl": "https://www.johnhardy.com/on/demandware.static/-/Sites-master-catalog/default/dw8477c40f/images/large/BZS60193BSP_Profile.jpg"
+  },
+  {
+    "productId": 5,
+    "imgUrl": "https://www.johnhardy.com/on/demandware.static/-/Sites-master-catalog/default/dw34edfefa/images/modelview/BZS60193BSP_Model.jpg"
+  },
+  {
+    "productId": 5,
+    "imgUrl": "https://www.johnhardy.com/on/demandware.static/-/Sites-master-catalog/default/dw79979bf0/images/large/BZS60193BSP_Top.jpg"
+  }
+]
